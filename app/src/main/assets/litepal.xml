@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="clever_weather"/>
+    <versoin value="1"/>
+    <list>
+        <mapping class="com.cleverweather.cleverweather.db.Province"/>
+        <mapping class="com.cleverweather.cleverweather.db.City"/>
+        <mapping class="com.cleverweather.cleverweather.db.Country"/>
+    </list>
+</litepal>
